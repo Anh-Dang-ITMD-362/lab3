@@ -205,32 +205,31 @@ label {
 /* ===== LAYOUT STYLES ====== */
 #content{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  background-color: gainsboro;
+  padding: 1em;
 }
 label{
   text-align: left;
   padding: 5%;
+  margin-left: 5%;
 }
 input[type=email]{
   background-color: #c0c0c0;
-  border: none;
+  width: 80%;
 }
 input{
-  margin-left: 5%;
-}
-input [type=checkbox]{
+  margin-left: 10%;
   border: none;
-  color: #c0c0c0;
 }
-input [type=submit]{
-  display: block;
+#submit{
   text-align: center;
+  display: block;
   margin-left: auto;
-  width: 80%;
   margin-right: auto;
+  width: fit-content;
+  padding: 10px;
+  margin-bottom: 1em;
 }
 h1{
   font-size: 2em;
