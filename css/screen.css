@@ -210,16 +210,27 @@ label {
   width: 80%;
   background-color: gainsboro;
 }
+label{
+  text-align: left;
+  padding: 5%;
+}
 input[type=email]{
   background-color: #c0c0c0;
   border: none;
 }
-label{
-  text-align: left;
-  padding: 10px;
-}
 input{
-  margin-left: 0;
+  margin-left: 5%;
+}
+input [type=checkbox]{
+  border: none;
+  color: #c0c0c0;
+}
+input [type=submit]{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  width: 80%;
+  margin-right: auto;
 }
 h1{
   font-size: 2em;
