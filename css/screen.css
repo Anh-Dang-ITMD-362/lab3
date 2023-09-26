@@ -210,6 +210,9 @@ label {
   width: 80%;
   text-align: center;
 }
-
+input[type=email]{
+  background-color: #c0c0c0;
+  border: none;
+}
 
 /* ===== STATE STYLES ======= */
