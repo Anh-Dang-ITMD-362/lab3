@@ -226,5 +226,8 @@ h1{
   line-height: 2.2em;
   text-align: center;
 }
+p{
+  text-align: center;
+}
 
 /* ===== STATE STYLES ======= */
