@@ -216,6 +216,7 @@ h1{
 }
 p{
   background-color: gray;
+  text-align: center;
 }
 ol{
   background-color: darkseagreen;
