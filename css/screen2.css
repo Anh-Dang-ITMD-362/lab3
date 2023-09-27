@@ -222,11 +222,12 @@ h1, p{
 }
 ol{
   background-color: darkseagreen;
+  padding: 5%;
 }
-input{
+input[type=email]{
   background-color: aquamarine;
   box-sizing: border-box;
-  margin: .5em 0;
+  margin: .5em 0 1em 0;
 }
 #age-verification{
   width: 1em;
@@ -238,7 +239,7 @@ input{
   padding: .5em;
   display: block;
   text-align: center;
-  margin: 2em auto;
+  margin: 2em auto 1em auto;
   border-radius: 1em;
 }
 /* ===== STATE STYLES ======= */
