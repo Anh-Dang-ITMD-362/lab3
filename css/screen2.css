@@ -222,7 +222,7 @@ ol{
 }
 input[type=email]{
   box-sizing: border-box;
-  margin: .5em 0 1em 0;
+  margin: .5em 0 2em 0;
 }
 label{
   font-family: 'Poppins',Arial, Helvetica, sans-serif;
