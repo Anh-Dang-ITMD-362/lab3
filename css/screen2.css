@@ -224,6 +224,11 @@ input[type=email]{
   box-sizing: border-box;
   margin: .5em 0 1em 0;
 }
+label{
+  font-family: 'Poppins',Arial, Helvetica, sans-serif;
+  font-size: .875em;
+  font-weight: bold;
+}
 #age-verification{
   width: 1em;
   height: 1em
@@ -236,6 +241,6 @@ input[type=email]{
   text-align: center;
   margin: 2em auto 1em auto;
   border-radius: 1em;
-  font-family: 'Poppins',Arial, Helvetica, sans-serif;
+  
 }
 /* ===== STATE STYLES ======= */
