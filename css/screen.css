@@ -228,6 +228,13 @@ input{
   border: none;
   background-color: #c0c0c0;
 }
+#age-verification{
+  position: relative;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
 #submit{
   text-align: center;
   display: block;
