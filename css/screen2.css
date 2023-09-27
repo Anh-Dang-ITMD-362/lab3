@@ -212,10 +212,12 @@ h1{
   background-color: darkgray;
   width: 90%;
   margin: auto;
-  text-align: center;
 }
 p{
   background-color: gray;
+}
+h1, p{
+  padding: .4em;
   text-align: center;
 }
 ol{
@@ -233,9 +235,10 @@ input{
 #submit{
   background-color:gainsboro;
   width: fit-content;
+  padding: .5em;
   display: block;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2em auto;
+  border-radius: 1em;
 }
 /* ===== STATE STYLES ======= */
