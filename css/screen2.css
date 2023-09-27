@@ -223,18 +223,27 @@ ol{
 input[type=email]{
   box-sizing: border-box;
   margin: .5em 0 2em 0;
+  border: 1%;
+  padding: .4em;
+  font-family: 'PT Serif','Times New Roman', Times, serif;
+  color: darkslategray;
+  font-size: .9em;
+  width: 100%;
 }
 label{
   font-family: 'Poppins',Arial, Helvetica, sans-serif;
   font-size: .875em;
   font-weight: bold;
 }
+input{
+  border: none;
+  background-color: darkgray;
+}
 #age-verification{
   width: 1em;
   height: 1em
 }
 #submit{
-  background-color: darkgray;
   width: fit-content;
   padding: .5em;
   display: block;
