@@ -213,19 +213,14 @@ h1{
   width: 90%;
   margin: auto;
 }
-p{
-  background-color: gray;
-}
 h1, p{
   padding: .4em;
   text-align: center;
 }
 ol{
-  background-color: darkseagreen;
   padding: 5%;
 }
 input[type=email]{
-  background-color: aquamarine;
   box-sizing: border-box;
   margin: .5em 0 1em 0;
 }
@@ -234,12 +229,13 @@ input[type=email]{
   height: 1em
 }
 #submit{
-  background-color:gainsboro;
+  background-color: darkgray;
   width: fit-content;
   padding: .5em;
   display: block;
   text-align: center;
   margin: 2em auto 1em auto;
   border-radius: 1em;
+  font-family: ;
 }
 /* ===== STATE STYLES ======= */
