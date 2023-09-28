@@ -214,6 +214,7 @@ html{
 h1{
   width: 90%;
   margin: auto;
+  font-weight:bold;
 }
 h1, p{
   color:#3F3F3F;
@@ -223,6 +224,7 @@ h1, p{
 }
 p{
   margin-bottom: 1.5em;
+  font-weight:300;
 }
 ol{
   padding: 5%;
@@ -231,8 +233,10 @@ input[type=email]{
   box-sizing: border-box;
   margin: .8em 0 2em 0;
   border: 1%;
-  padding: .4em;
-  font-family: 'PT Serif', Times, serif;
+  padding: .5em;
+  font-family: 'Poppins', Helvetica, sans-serif;
+  opacity: .6;
+  font-weight:300;
   width: 100%;
   border-radius: .23em;
 }
@@ -257,6 +261,7 @@ input{
   margin: 2em auto 1em auto;
   border-radius: 1em;
   color: #3F3F3F;
+  text-decoration: underline;
 }
 
 @media screen and (min-width: 510px) {
