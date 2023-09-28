@@ -259,10 +259,19 @@ input{
   color: #3F3F3F;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 510px) {
   #content{
-    width: 70%;
-    margin: auto;
+    width: 80%;
+    margin: 1em auto;
+  }
+  ol{
+    padding: 1.5em 1em;
+  }
+}
+@media screen and (min-width: 768px){
+  #content{
+    width: 60%;
+    margin: 1em auto;
   }
 }
 /* ===== STATE STYLES ======= */
