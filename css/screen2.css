@@ -221,17 +221,20 @@ h1, p{
   text-align: center;
   font-family: 'PT Serif', Times, serif;
 }
+p{
+  margin-bottom: 1.5em;
+}
 ol{
   padding: 5%;
 }
 input[type=email]{
   box-sizing: border-box;
-  margin: .5em 0 2em 0;
+  margin: .8em 0 2em 0;
   border: 1%;
   padding: .4em;
   font-family: 'PT Serif', Times, serif;
-  color: darkslategray;
   width: 100%;
+  border-radius: .23em;
 }
 label, #submit{
   font-family: 'Mooli', Helvetica, sans-serif;
@@ -239,11 +242,12 @@ label, #submit{
 }
 input{
   border: none;
-  background-color: darkgray;
+  background-color: rgb(169, 169, 169, .7);
 }
 #age-verification{
   width: 1em;
-  height: 1em
+  height: 1em;
+  margin:5% 0;
 }
 #submit{
   width: fit-content;
