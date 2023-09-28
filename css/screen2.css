@@ -225,13 +225,13 @@ input[type=email]{
   margin: .5em 0 2em 0;
   border: 1%;
   padding: .4em;
-  font-family: 'PT Serif','Times New Roman', Times, serif;
+  font-family: 'PT Serif', Times, serif;
   color: darkslategray;
   width: 100%;
 }
 label{
-  font-family: 'Poppins',Arial, Helvetica, sans-serif;
-  font-weight: bold;
+  font-family: 'Mooli', Helvetica, sans-serif;
+  font-weight:300;
 }
 input{
   border: none;
