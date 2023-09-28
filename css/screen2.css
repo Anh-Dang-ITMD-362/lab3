@@ -216,6 +216,7 @@ h1, p{
   color:#3F3F3F;
   padding: .4em;
   text-align: center;
+  font-family: 'PT Serif', Times, serif;
 }
 ol{
   padding: 5%;
@@ -248,7 +249,7 @@ input{
   text-align: center;
   margin: 2em auto 1em auto;
   border-radius: 1em;
-  font-family: 'PT Serif', Times, serif;
+
   color: #3F3F3F;
 }
 /* ===== STATE STYLES ======= */
