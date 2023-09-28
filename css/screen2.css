@@ -227,12 +227,10 @@ input[type=email]{
   padding: .4em;
   font-family: 'PT Serif','Times New Roman', Times, serif;
   color: darkslategray;
-  font-size: .9em;
   width: 100%;
 }
 label{
   font-family: 'Poppins',Arial, Helvetica, sans-serif;
-  font-size: .875em;
   font-weight: bold;
 }
 input{
