@@ -203,9 +203,12 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+html{
+  background-color: #c0c0c0;
+}
 #content{
   display: block;
-  background-color: lightgray;
+  background-color:rgb(245, 245, 245,.3);
   padding: 1cm;
 }
 h1{
@@ -230,7 +233,7 @@ input[type=email]{
   color: darkslategray;
   width: 100%;
 }
-label{
+label, #submit{
   font-family: 'Mooli', Helvetica, sans-serif;
   font-weight:300;
 }
@@ -249,7 +252,6 @@ input{
   text-align: center;
   margin: 2em auto 1em auto;
   border-radius: 1em;
-
   color: #3F3F3F;
 }
 /* ===== STATE STYLES ======= */
