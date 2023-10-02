@@ -232,7 +232,6 @@ ol{
 input[type=email]{
   box-sizing: border-box;
   margin: .8em 0 2em 0;
-  border: 1%;
   padding: .5em;
   font-family: 'Poppins', Helvetica, sans-serif;
   opacity: .6;
