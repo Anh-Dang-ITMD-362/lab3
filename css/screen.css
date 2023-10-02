@@ -242,7 +242,7 @@ input[type=email]{
 }
 label, #submit{
   font-family: 'Nunito', Helvetica, sans-serif;
-  font-weight:400;
+  color:#3F3F3F;
 }
 input{
   border: none;
