@@ -204,11 +204,10 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 html{
-  background-color: #c0c0c0;
+  background-color: #c0c0c0a7;
 }
 #content{
   display: block;
-  background-color:rgb(245, 245, 245,.3);
   padding: 1cm;
 }
 h1{
@@ -267,6 +266,10 @@ input{
   #content{
     width: 80%;
     margin: 1em auto;
+    background-color:rgb(245, 245, 245,.3);
+  }
+  html{
+    background-color: #c0c0c0;
   }
   ol{
     padding: 1.5em 1em;
